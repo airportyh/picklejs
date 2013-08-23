@@ -1,7 +1,7 @@
 {
   "name": "picklejs",
   "version": "0.0.0",
-  "description": "JSON-based Javascript serializer.",
+  "description": "JSON-based Javascript object serializer.",
   "main": "pickle.js",
   "scripts": {
     "test": "testem ci"

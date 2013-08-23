@@ -1,7 +1,7 @@
 Pickle.js
 =========
 
-JSON-based Javascript serializer.
+JSON-based Javascript object serializer.
 
 ## Install
 
